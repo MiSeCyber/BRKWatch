@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "BRKWatch", "BRKWatch\BRKWatch.pyproj", "{39C3A73E-8A06-4A4B-A533-F90824E2DE6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39C3A73E-8A06-4A4B-A533-F90824E2DE6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39C3A73E-8A06-4A4B-A533-F90824E2DE6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36305A2C-85D0-4E01-88FF-B291CC4A4B46}
+	EndGlobalSection
+EndGlobal
